@@ -1,0 +1,27 @@
+:root {
+  --color-bg: #faf8f5;
+  --color-bg-elevated: #ffffff;
+  --color-bg-muted: #f0ebe3;
+  --color-text: #1c1917;
+  --color-text-muted: #57534e;
+  --color-accent: #3d5266;
+  --color-border: #e5dfd6;
+  --font-sans: system-ui, sans-serif;
+  --max-width: 42rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  line-height: 1.6;
+  color: var(--color-text);
+  background: var(--color-bg);
+}
+
+a {
+  color: var(--color-accent);
+}

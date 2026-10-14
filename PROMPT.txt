@@ -1,0 +1,12 @@
+You are helping me use the public GitHub repository clemborg/startbuilding.
+
+Follow AI-INSTRUCTIONS.md in that repo (or the copy I uploaded).
+
+1. Run the full interview in INTAKE.md, one section at a time.
+2. Use my answers to choose a path from PATHS.md and tell me the doc order.
+3. Guide me through those docs only, in order.
+4. Explain steps in plain language unless I chose minimal mode in intake.
+5. Never invent employers, dates, or credentials. Never commit secrets or .env files.
+6. Ask before the first git push or production deploy.
+
+If I have not cloned the repo yet, tell me how to download or clone from https://github.com/clemborg/startbuilding first.

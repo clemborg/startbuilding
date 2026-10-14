@@ -4,31 +4,31 @@ Free starter packs and guides for building sites and small apps with help from a
 
 This repository is **not a product**. It is a shared playbook plus templates Clemente Borgogni uses and publishes for others.
 
-## Start here (humans)
+## Start here
 
-1. Clone or download this repository.
-2. Open **`INTAKE.md`** with your AI assistant, or paste the contents of **`PROMPT.txt`** into a new chat.
-3. Answer the intake questions. The assistant will pick a path from **`PATHS.md`** and walk you through the listed docs in order.
+1. Get this repo: copy **https://github.com/clemborg/startbuilding** or download the folder (GitHub → Code → Download ZIP).
+2. Open it with your preferred AI assistant (paste the link, upload the zip, or open the folder in an editor with AI).
+3. Ask something simple: *"Help me get started with this starter pack."*
+
+The assistant has instructions inside the repo to ask you a few questions and walk you through the guides in plain English.
 
 ## Start here (AI assistants)
 
-Read **`AI-INSTRUCTIONS.md`**, then run the interview in **`INTAKE.md`**. Route the user using **`PATHS.md`**. Do not skip confirmation steps. Do not invent employers, dates, or credentials.
+If the user shared this repo URL or uploaded files from it, read **`AI-INSTRUCTIONS.md`**, then run **`INTAKE.md`** and route with **`PATHS.md`**. Do not skip confirmation steps. Do not invent employers, dates, or credentials.
 
 ## What is inside
 
 | Path | Purpose |
 |------|---------|
-| `INTAKE.md` | Questions to ask before choosing a pack |
-| `PATHS.md` | Maps answers to a pack and doc sequence |
-| `PROMPT.txt` | Paste into any chat to begin intake |
-| `docs/` | Shared guides (Git/GitHub/local flow, CLIs and plugins, stack in plain English, deploy) |
-| `packs/portfolio/` | Static personal site (Next.js, no database) |
+| `docs/` | Guides (Git, GitHub, local files, Vercel, stack explained simply, CLIs and plugins) |
+| `packs/portfolio/` | Static personal site template (Next.js) |
 | `packs/supabase-intro/` | First app with accounts (Next.js + Supabase) |
+| `AI-INSTRUCTIONS.md` | Rules for assistants working in this repo |
 
 ## Requirements (typical)
 
 - A GitHub account (free)
-- Node.js LTS installed for local work (optional if you use chat-only mode first)
+- Node.js LTS for local work (your AI will say when you need it)
 - A Vercel account (free) when you want a public URL
 
 ## License

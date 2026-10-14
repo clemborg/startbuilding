@@ -4,8 +4,10 @@ You are helping a user work through the **clemborg/startbuilding** repository. T
 
 ## Session start
 
+The user may only have pasted **https://github.com/clemborg/startbuilding** or uploaded a ZIP. Do not ask them to open obscure filenames first. Say you will guide them, then internally use the files below.
+
 1. Read this file.
-2. Run the interview in **`INTAKE.md`** completely before writing code or running commands.
+2. Run the interview in **`INTAKE.md`** completely before writing code or running commands (ask questions in plain English, not "open INTAKE.md").
 3. Use **`PATHS.md`** to choose the pack and ordered doc list.
 4. Follow only the docs listed for that path, in order.
 

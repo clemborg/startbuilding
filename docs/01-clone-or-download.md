@@ -1,35 +1,29 @@
-# Clone or download
+# Get the repo on your computer (or into your AI)
 
-Repository: https://github.com/clemborg/startbuilding
+You do not need Git expertise to begin.
 
-## Option A: Clone with Git (recommended)
+## Easiest paths
+
+| Method | Good for |
+|--------|----------|
+| Copy **https://github.com/clemborg/startbuilding** into ChatGPT, Claude, or similar | Starting in chat; assistant explains next steps |
+| **Download ZIP** (GitHub → Code → Download ZIP) | Uploading the folder to an AI or unzipping locally |
+| **Clone with Git** | Local editing with `npm run dev` |
 
 ```cmd
 git clone https://github.com/clemborg/startbuilding.git
-cd startbuilding
 ```
 
-Your own site code will live in a **separate** repo later. This repo is the guide plus templates.
+## Your own project later
 
-For the portfolio pack, work inside:
+The **startbuilding** folder is the guide. Your personal site usually lives in a **separate** repo you create later. See `docs/02-github-first-repo.md`.
 
-```cmd
-cd packs/portfolio
-```
+## Concepts
 
-## Option B: Download ZIP
-
-1. Open https://github.com/clemborg/startbuilding
-2. Code → Download ZIP
-3. Unzip
-4. Open the folder in your editor, or upload key files to your AI chat
-
-## Option C: Copy only a pack
-
-If you only want the portfolio template, copy the folder `packs/portfolio` into a new directory and initialize a new git repo there when you are ready for **`docs/02-github-first-repo.md`**.
+How local files, Git, GitHub, and Vercel connect: **`docs/07-git-local-github-vercel.md`**.
 
 ## Next
 
-Portfolio path: **`packs/portfolio/README.md`**
+Portfolio: **`packs/portfolio/README.md`**
 
-Supabase path: **`packs/supabase-intro/README.md`**
+Supabase track: **`packs/supabase-intro/README.md`**

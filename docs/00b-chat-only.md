@@ -2,15 +2,15 @@
 
 Use this when you do not have a project folder on disk yet.
 
-## What to upload to your AI
+## Easiest start
 
-Minimum:
+Paste **https://github.com/clemborg/startbuilding** into your AI and ask: *"Help me get started with this starter pack."*
 
-- `AI-INSTRUCTIONS.md`
-- `INTAKE.md`
-- `PATHS.md`
-- `PROMPT.txt` (optional if you paste its text instead)
-- The README for your chosen pack (`packs/portfolio/README.md` or `packs/supabase-intro/README.md`)
+Or upload the **Download ZIP** from GitHub.
+
+## What to upload if the AI needs files
+
+The whole repo folder, or at minimum README plus the pack you care about (`packs/portfolio/` or `packs/supabase-intro/`).
 
 For portfolio content work, also upload:
 

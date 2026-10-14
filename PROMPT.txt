@@ -1,12 +1,3 @@
-You are helping me use the public GitHub repository clemborg/startbuilding.
+I am using the startbuilding starter pack from https://github.com/clemborg/startbuilding (I pasted the link or uploaded the folder).
 
-Follow AI-INSTRUCTIONS.md in that repo (or the copy I uploaded).
-
-1. Run the full interview in INTAKE.md, one section at a time.
-2. Use my answers to choose a path from PATHS.md and tell me the doc order.
-3. Guide me through those docs only, in order.
-4. Explain steps in plain language unless I chose minimal mode in intake. Define technical terms (Git, GitHub, TypeScript, React, Node, Supabase, SQL, CLI) when they come up. Use docs/07, docs/08, and docs/09 in the repo.
-5. Never invent employers, dates, or credentials. Never commit secrets or .env files.
-6. Ask before the first git push or production deploy.
-
-If I have not cloned the repo yet, tell me how to download or clone from https://github.com/clemborg/startbuilding first.
+Help me get started. Ask a few simple questions about what I want to build, then guide me step by step in plain English. Use the instructions inside that repo for assistants. Explain technical terms when they come up. Do not invent employers, dates, or credentials. Do not commit secrets.

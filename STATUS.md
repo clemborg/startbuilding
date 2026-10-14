@@ -6,6 +6,9 @@
 - [x] Shared docs (prerequisites, clone, GitHub, Vercel, glossary, stuck)
 - [x] Portfolio pack (minimal Next.js template + pack docs)
 - [x] Supabase intro pack (docs only)
+- [x] Git/local/GitHub/Vercel flow doc
+- [x] CLIs and plugins doc (gh, Supabase CLI, extensions)
+- [x] Stack plain English doc
 
 ## Next
 

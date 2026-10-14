@@ -10,6 +10,9 @@ Legend for doc IDs:
 - **SB-02** = `docs/02-github-first-repo.md`
 - **SB-03** = `docs/03-vercel-deploy.md`
 - **SB-06** = `docs/06-when-stuck.md`
+- **SB-07** = `docs/07-git-local-github-vercel.md`
+- **SB-08** = `docs/08-clis-and-plugins.md`
+- **SB-09** = `docs/09-stack-plain-english.md`
 - **PF-00** = `packs/portfolio/README.md`
 - **PF-01** = `packs/portfolio/docs/01-content.md`
 - **PF-02** = `packs/portfolio/docs/02-theme.md`
@@ -26,11 +29,11 @@ Legend for doc IDs:
 
 | Work mode | GitHub | Public URL | Doc order |
 |-----------|--------|------------|-----------|
-| Local | Yes | Yes | SB-00 → SB-01 → PF-00 → PF-01 → PF-02 → PF-03 → SB-02 → PF-04 → SB-03 → SB-06 |
-| Local | Yes | No | SB-00 → SB-01 → PF-00 → PF-01 → PF-02 → PF-03 → SB-02 → SB-06 |
-| Local | Need account | Yes | SB-00 → SB-01 → PF-00 → PF-01 → PF-02 → PF-03 → SB-02 → PF-04 → SB-03 → SB-06 |
+| Local | Yes | Yes | SB-00 → SB-07 → SB-09 → SB-01 → SB-08 (skim) → PF-00 → PF-01 → PF-02 → PF-03 → SB-02 → PF-04 → SB-03 → SB-06 |
+| Local | Yes | No | SB-00 → SB-07 → SB-09 → SB-01 → PF-00 → PF-01 → PF-02 → PF-03 → SB-02 → SB-06 |
+| Local | Need account | Yes | SB-00 → SB-07 → SB-09 → SB-01 → SB-08 (skim) → PF-00 → PF-01 → PF-02 → PF-03 → SB-02 → PF-04 → SB-03 → SB-06 |
 | Chat only | Any | Any | SB-01b → PF-00 → PF-01 (paste workflow) → SB-06 when blocked |
-| Not sure (C) | Any | Any | SB-00 → `docs/glossary.md` → redo intake with goal A or B |
+| Not sure (C) | Any | Any | SB-00 → SB-07 → SB-09 → `docs/glossary.md` → redo intake with goal A or B |
 
 ---
 
@@ -40,8 +43,8 @@ Prerequisite: user should understand a static site OR accept a steeper learning 
 
 | Work mode | GitHub | Public URL | Doc order |
 |-----------|--------|------------|-----------|
-| Local | Yes | Yes | SB-00 → SB-01 → SU-00 → SU-01 → SU-02 → SU-03 → SB-02 → SB-03 → SB-06 |
-| Local | Yes | No | SB-00 → SB-01 → SU-00 → SU-01 → SU-02 → SU-03 → SB-02 → SB-06 |
+| Local | Yes | Yes | SB-00 → SB-07 → SB-09 → SB-01 → SB-08 → SU-00 → SU-01 → SU-02 → SU-03 → SB-02 → SB-03 → SB-06 |
+| Local | Yes | No | SB-00 → SB-07 → SB-09 → SB-01 → SB-08 → SU-00 → SU-01 → SU-02 → SU-03 → SB-02 → SB-06 |
 | Chat only | Any | Any | SB-01b → SU-00 → SU-01 (conceptual) → SB-06; recommend switching to local for SU-02 onward |
 
 ---

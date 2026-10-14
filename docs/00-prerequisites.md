@@ -31,6 +31,15 @@ On Windows PowerShell, if `npm` fails, try `npm.cmd`.
 
 You can start without Node if you use **`docs/00b-chat-only.md`**. You will hit limits before deploy; plan to move to local mode later.
 
-## Next
+## Read next (conceptual)
+
+Before heavy editing, skim:
+
+- **`docs/07-git-local-github-vercel.md`** (local vs Git vs GitHub vs Vercel)
+- **`docs/09-stack-plain-english.md`** (TypeScript, React, Next.js, Supabase)
+
+Optional when you use terminal tools: **`docs/08-clis-and-plugins.md`**
+
+## Next step
 
 **`docs/01-clone-or-download.md`**

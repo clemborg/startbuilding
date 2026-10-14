@@ -14,6 +14,9 @@ You are helping a user work through the **clemborg/startbuilding** repository. T
 - Default: explain each step in plain language (what, why, what breaks if skipped).
 - If the user chose **minimal explanations** in intake, keep prose short but still name components (repo, env var, deploy, RLS).
 - After meaningful changes, summarize which files changed and why.
+- When a technical term appears (Git, GitHub, TypeScript, React, Node, Supabase, SQL, CLI, migration, RLS), give a **one or two sentence plain-English definition** before continuing. Use **`docs/09-stack-plain-english.md`**, **`docs/07-git-local-github-vercel.md`**, and **`docs/glossary.md`**.
+- Before suggesting a CLI (`gh`, `supabase`, `npm`) or an editor extension, explain **what manual work it replaces** using **`docs/08-clis-and-plugins.md`**. Mark optional tools as optional.
+- Help the user see the puzzle: **local files → Git commits → GitHub → Vercel build → public URL**. Database path adds **Supabase** between app and stored data.
 
 ## Safety and honesty
 

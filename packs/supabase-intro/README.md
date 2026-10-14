@@ -11,3 +11,5 @@ Complete the portfolio pack first, or be comfortable running Next.js locally.
 3. `docs/03-wire-up-nextjs.md`
 
 Never put the service role key in the browser or in git.
+
+Before SU-01, read **`../../docs/08-clis-and-plugins.md`** (Supabase CLI and editor extension) and **`../../docs/09-stack-plain-english.md`** (SQL, Postgres, Supabase).

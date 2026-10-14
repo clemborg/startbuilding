@@ -1,6 +1,10 @@
 # Your first GitHub repository (project code)
 
+If Git vs GitHub vs local is still fuzzy, read **`07-git-local-github-vercel.md`** first.
+
 Create a **new** repository for **your** site or app, not for the startbuilding guide repo.
+
+Optional: use **GitHub CLI** (`gh`) instead of the website. See **`08-clis-and-plugins.md`**.
 
 ## Steps
 

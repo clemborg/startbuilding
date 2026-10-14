@@ -21,7 +21,7 @@ Read **`AI-INSTRUCTIONS.md`**, then run the interview in **`INTAKE.md`**. Route 
 | `INTAKE.md` | Questions to ask before choosing a pack |
 | `PATHS.md` | Maps answers to a pack and doc sequence |
 | `PROMPT.txt` | Paste into any chat to begin intake |
-| `docs/` | Shared guides (GitHub, clone, glossary) |
+| `docs/` | Shared guides (Git/GitHub/local flow, CLIs and plugins, stack in plain English, deploy) |
 | `packs/portfolio/` | Static personal site (Next.js, no database) |
 | `packs/supabase-intro/` | First app with accounts (Next.js + Supabase) |
 
